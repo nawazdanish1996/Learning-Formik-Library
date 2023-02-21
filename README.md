@@ -13,3 +13,7 @@
 - Managing the form data,
 - form submission,
 - form validation and displaying error message
+
+
+#### How to hide the React source code from the browser viewing?
+- 
