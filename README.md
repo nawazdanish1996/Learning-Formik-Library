@@ -17,3 +17,6 @@
 
 #### How to hide the React source code from the browser viewing?
 - 
+#### on scroll down navbar will be hide and on scroll up navbar will be show.
+
+-  source code availabe at : NavigationBar.jsx file
