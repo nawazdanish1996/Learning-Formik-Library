@@ -1,12 +1,19 @@
 # Learning Formik Library
 
+- Formik Doc: https://formik.org/docs/overview
+
 #### Installation command
 
 - npm install formik --save
+- npm i yup
 
 #### What is Formik?
 
 - Formik is a library that help to deal with forms in performance and easy way to handle forms in React or React-Native.
+
+#### What  is Yup?
+
+- Yup is a schema builder for runtime value parsing and validation. Define a schema, transform a value to match, assert the shape of an existing value, or both. Yup schema are extremely expressive and allow modeling complex, interdependent validations, or value transformation
 
 #### Why?
 
