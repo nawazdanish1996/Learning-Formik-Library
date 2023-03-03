@@ -1,12 +1,10 @@
 import './App.scss';
-// import NavigationBar from './components/NavigationBar';
-import YouTubeForm from './components/YouTubeForm';
+import SignUp from './components/SignUp';
 
 function App() {
   return (
     <div className="App">
-      {/* <NavigationBar /> */}
-      <YouTubeForm />
+      <SignUp />
     </div>
   );
 }
